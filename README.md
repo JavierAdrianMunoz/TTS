@@ -92,7 +92,7 @@ Las contribuciones son bienvenidas. Por favor, lee las [pautas de contribución]
 ## Licencia
 
 ```
-Copyright 2023 Tu Nombre
+Copyright 2023 Javier Adrian 
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -105,14 +105,5 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-```
-
-## Contacto
-
-- **Tu Nombre** - [@tucuenta](https://twitter.com/tucuenta)
-- **Email**: tu@email.com
-- **GitHub**: [@tucuenta](https://github.com/tucuenta)
-
----
 
 Hecho con ❤️ para la comunidad de Android
