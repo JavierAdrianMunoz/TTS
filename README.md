@@ -43,7 +43,7 @@ La aplicación incluye soporte para una amplia variedad de idiomas, incluyendo:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tts-android.git
+   git clone https://github.com/JavierAdrianMunoz/TTS/tree/master
    ```
 2. Abre el proyecto en Android Studio
 3. Sincroniza el proyecto con los archivos de Gradle
